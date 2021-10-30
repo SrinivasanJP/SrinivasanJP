@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrinivasanJP
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Life
+- 🌱 I’m currently learning My Life
 - 💞️ I’m looking to collaborate on Myself
 - 📫 jpsrinivasan38@gmail.com
 

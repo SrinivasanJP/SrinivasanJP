@@ -8,7 +8,7 @@ I'm a passionate Software Engineer based in INDIA. Here you'll find a bit about 
 
 ## About Me
 
-- 🔭 I'm currently working on Web Development 
+- 🔭 I'm currently working on Web Applications and Android 
 - 🌱 I'm learning Block Chain
 - 💬 Ask me about my Work
 - 📫 How to reach me: [jpsrinivasan38@gmail.com] or [https://www.linkedin.com/in/srinivasanjp/]

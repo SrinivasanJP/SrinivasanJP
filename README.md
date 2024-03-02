@@ -16,13 +16,12 @@ I'm a passionate Software Engineer based in INDIA. Here you'll find a bit about 
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrinivasanJP&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrinivasanJP&show_icons=true&theme=radical&card_width=1000px)
 
 ## Languages and Tools
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrinivasanJP&theme=radical&langs_count=10&layout=donut-vertical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrinivasanJP&theme=radical&langs_count=10&layout=donut)
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SrinivasanJP)
 
 ## Projects
 

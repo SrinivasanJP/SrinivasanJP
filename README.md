@@ -20,7 +20,9 @@ I'm a passionate Software Engineer based in INDIA. Here you'll find a bit about 
 
 ## Languages and Tools
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrinivasanJP&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrinivasanJP&theme=radical&langs_count=10&layout=donut-vertical)
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SrinivasanJP)
 
 ## Projects
 
